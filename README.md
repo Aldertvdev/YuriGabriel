@@ -8,7 +8,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OI👋,+MEU+NOME+É+Yuri+Gabriel+Souza+Sampaio;Sou+estudante+no+Ensino+Medio;+Pretento+ser+Engenheiro+De+Software;Faço+jogos+no+Roblox+Studio;+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
  
-### Main skills:
+### Main skills: codes
 ![Luau Roblox](https://img.shields.io/badge/-Luau+Roblox-0D1117?style=for-the-badge&logo=luau&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![Javascript](https://img.shields.io/badge/-Javascript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
 ![Phyton](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=python&labelColor=0D1117&textColor=0D1117)&nbsp;
@@ -21,11 +21,10 @@
  
 ### Other Knowledge: Backend 
 ![Python](https://img.shields.io/badge/-python-0D1117?style=for-the-badge&logo=python&logoColor=1572B6&labelColor=0D1117)&nbsp;
+![Javascript](https://img.shields.io/badge/-javascript-0D1117?style=for-the-badge&logo=javascript&logoColor=1572B6&labelColor=0D1117)&nbsp;
   
 ### Studying in this moment:
-![Node.JS](https://img.shields.io/badge/-Node.JS-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117&textColor=0D1117)&nbsp;
-![React.js](https://img.shields.io/badge/-React.js-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117&textColor=0D1117)&nbsp;
+ Nenhuma Por Enquanto
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
