@@ -34,7 +34,7 @@
   <summary>⚡ Recent GitHub Activity</summary>
   <br/>
 <!-- 	[![Yashita's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
-   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yashitanamdeo&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+   <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Yashita's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=yurigabrielsouzasampaio&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
   <br/>
 </details>
 
@@ -42,7 +42,7 @@
 
 <!-- <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{MatheusAlvarez}/count.svg" /></p> 
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{YuriGabriel}/count.svg" /></p> 
 <br></div> -->
 
 
