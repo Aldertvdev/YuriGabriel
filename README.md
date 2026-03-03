@@ -6,7 +6,7 @@
 
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OI👋,+MEU+NOME+É+Yuri+Gabriel;Sou+estudante+no+Ensino+Medio;+Pretento+ser+Engenheiro+De+Software;Faço+jogos+no+Roblox+Studio;+at+Senac;Be+Welcome!+:%29)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=OI👋,+MEU+NOME+É+Yuri+Gabriel;Sou+estudante+no+Ensino+Medio;+Pretento+ser+Engenheiro+De+Software;Faço+jogos+no+Roblox+Studio;+Bom+Só+isso;Be+Welcome!+:%29)](https://git.io/typing-svg) 
  
 ### Main skills: codes
 ![Luau Roblox](https://img.shields.io/badge/-Luau+Roblox-0D1117?style=for-the-badge&logo=luau&labelColor=0D1117&textColor=0D1117)&nbsp;
